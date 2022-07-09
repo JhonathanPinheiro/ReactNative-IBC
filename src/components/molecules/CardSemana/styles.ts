@@ -3,14 +3,21 @@ import styled, { css } from "styled-components/native";
 export const Box = styled.TouchableOpacity`
   ${({ theme }) => css`
     width: 160px;
-    min-height: 184px;
-    justify-content: flex-end;
-    padding: 8px;
+    height: 184px;
+    justify-content: space-between;
+    padding: 0 0 8px 0;
     margin-bottom: 32px;
     border-radius: 16px;
     background-color: ${theme.background.grey};
     text-align: center;
   `}
+`;
+
+export const Image = styled.Image`
+  width: 100%;
+  height: 60%;
+  border-top-left-radius: 16px;
+  border-top-right-radius: 16px;
 `;
 
 export const Title = styled.Text`
