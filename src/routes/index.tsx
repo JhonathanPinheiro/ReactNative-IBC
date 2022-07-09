@@ -1,7 +1,8 @@
 import React from "react";
-import Welcome from "../pages/Welcome";
-import Home from "../pages/Home";
 import { createNativeStackNavigator } from "@react-navigation/native-stack";
+import Welcome from "../pages/Welcome";
+import HomePage from "../pages/HomePage";
+import SemanaPage from "../pages/SemanaPage";
 
 const Stack = createNativeStackNavigator();
 
@@ -15,7 +16,12 @@ export function AppRoutes() {
       />
       <Stack.Screen
         name="Home"
-        component={Home}
+        component={HomePage}
+        options={{ headerShown: false }}
+      />
+      <Stack.Screen
+        name="Semana"
+        component={SemanaPage}
         options={{ headerShown: false }}
       />
     </Stack.Navigator>

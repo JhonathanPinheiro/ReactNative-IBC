@@ -8,6 +8,7 @@ export default {
   },
   background: {
     black: "#0D0D0D",
+    grey: "#1A1A1A",
     white: "#FFFFFF",
   },
 };

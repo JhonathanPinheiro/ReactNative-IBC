@@ -1,4 +1,5 @@
 import { StatusBar } from "expo-status-bar";
+import { SafeAreaView } from "react-native";
 import { ThemeProvider } from "styled-components";
 import theme from "./src/global/styled/theme";
 import { Routes } from "./src/routes/app.routes";
