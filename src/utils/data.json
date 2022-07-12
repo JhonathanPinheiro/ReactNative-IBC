@@ -1,943 +1,110 @@
-[
-  {
-    "modulo": 1,
-    "semanas": [
-      {
-        "semana": 1,
-        "title": "Bíblia",
-        "dias": [
-          {
-            "dia": 1,
-            "devocional": "Os céus e a terra tomo hoje por testemunhas contra vós, de que te tenho proposto a vida e a morte, a bênção e a maldição; escolhe pois a vida, para que vivas, tu e a tua descendência",
-            "versículo": "Deuteronômio 30:19",
-            "title": "Tudo depende de uma escolha",
-            "conteudo": "Desde o inicio da humanidade, as escolhas fazem a diferença entre o sucesso e o fracasso, entre viver ou morrer. Não é atoa que as escrituras por diversas vezes nos mostram que nossas escolhas são baseadas nos resultados instantâneos (Tiago 4:3), quando na verdade deveríamos entender os riscos que acompanham os resultados das escolhas ruins. O bom é que temos um Deus amoroso e que se importa conosco, e deixou pronto um manual de instruções “a Bíblia” que nos ajudará a fazer as escolhas certas, para colhermos os resultados certos",
-            "avalie-se": {
-              "1": "Porque o homem tem a tendência de fazer escolhas erradas?",
-              "2": "Como Deus nos ajuda a fazer as escolhas certas?"
-            },
-            "aprodunde-se": "Tiago 4:3, Jeremias 29:11, Josué 24:15"
+  [
+    {
+      "semana": 1,
+      "title": "Bíblia",
+      "dias": [
+        {
+          "dia": 1,
+          "devocional": "Os céus e a terra tomo hoje por testemunhas contra vós, de que te tenho proposto a vida e a morte, a bênção e a maldição; escolhe pois a vida, para que vivas, tu e a tua descendência",
+          "versículo": "Deuteronômio 30:19",
+          "title": "Tudo depende de uma escolha",
+          "conteudo": "Desde o inicio da humanidade, as escolhas fazem a diferença entre o sucesso e o fracasso, entre viver ou morrer. Não é atoa que as escrituras por diversas vezes nos mostram que nossas escolhas são baseadas nos resultados instantâneos (Tiago 4:3), quando na verdade deveríamos entender os riscos que acompanham os resultados das escolhas ruins. O bom é que temos um Deus amoroso e que se importa conosco, e deixou pronto um manual de instruções “a Bíblia” que nos ajudará a fazer as escolhas certas, para colhermos os resultados certos",
+          "avalie": {
+            "primeiro": "Porque o homem tem a tendência de fazer escolhas erradas?",
+            "segundo": "Como Deus nos ajuda a fazer as escolhas certas?"
           },
-          {
-            "dia": 2,
-            "devocional": "",
-            "versículo": "",
-            "title": "",
-            "conteudo": "",
-            "avalie-se": {
-              "1": "",
-              "2": ""
-            },
-            "aprodunde-se": ""
+          "aprodunde": "Tiago 4:3, Jeremias 29:11, Josué 24:15"
+        }
+      ]
+    },
+    {
+      "semana": 2,
+      "title": "Bíblia",
+      "dias": [
+        {
+          "dia": 1,
+          "devocional": "Os céus e a terra tomo hoje por testemunhas contra vós, de que te tenho proposto a vida e a morte, a bênção e a maldição; escolhe pois a vida, para que vivas, tu e a tua descendência",
+          "versículo": "Deuteronômio 30:19",
+          "title": "Tudo depende de uma escolha",
+          "conteudo": "Desde o inicio da humanidade, as escolhas fazem a diferença entre o sucesso e o fracasso, entre viver ou morrer. Não é atoa que as escrituras por diversas vezes nos mostram que nossas escolhas são baseadas nos resultados instantâneos (Tiago 4:3), quando na verdade deveríamos entender os riscos que acompanham os resultados das escolhas ruins. O bom é que temos um Deus amoroso e que se importa conosco, e deixou pronto um manual de instruções “a Bíblia” que nos ajudará a fazer as escolhas certas, para colhermos os resultados certos",
+          "avalie": {
+            "primeiro": "Porque o homem tem a tendência de fazer escolhas erradas?",
+            "segundo": "Como Deus nos ajuda a fazer as escolhas certas?"
           },
-          {
-            "dia": 3,
-            "devocional": "",
-            "versículo": "",
-            "title": "",
-            "conteudo": "",
-            "avalie-se": {
-              "1": "",
-              "2": ""
-            },
-            "aprodunde-se": ""
+          "aprodunde": "Tiago 4:3, Jeremias 29:11, Josué 24:15"
+        }
+      ]
+    },
+    {
+      "semana": 3,
+      "title": "Bíblia",
+      "dias": [
+        {
+          "dia": 1,
+          "devocional": "Os céus e a terra tomo hoje por testemunhas contra vós, de que te tenho proposto a vida e a morte, a bênção e a maldição; escolhe pois a vida, para que vivas, tu e a tua descendência",
+          "versículo": "Deuteronômio 30:19",
+          "title": "Tudo depende de uma escolha",
+          "conteudo": "Desde o inicio da humanidade, as escolhas fazem a diferença entre o sucesso e o fracasso, entre viver ou morrer. Não é atoa que as escrituras por diversas vezes nos mostram que nossas escolhas são baseadas nos resultados instantâneos (Tiago 4:3), quando na verdade deveríamos entender os riscos que acompanham os resultados das escolhas ruins. O bom é que temos um Deus amoroso e que se importa conosco, e deixou pronto um manual de instruções “a Bíblia” que nos ajudará a fazer as escolhas certas, para colhermos os resultados certos",
+          "avalie": {
+            "primeiro": "Porque o homem tem a tendência de fazer escolhas erradas?",
+            "segundo": "Como Deus nos ajuda a fazer as escolhas certas?"
           },
-          {
-            "dia": 4,
-            "devocional": "",
-            "versículo": "",
-            "title": "",
-            "conteudo": "",
-            "avalie-se": {
-              "1": "",
-              "2": ""
-            },
-            "aprodunde-se": ""
+          "aprodunde": "Tiago 4:3, Jeremias 29:11, Josué 24:15"
+        }
+      ]
+    },
+    {
+      "semana": 4,
+      "title": "Bíblia",
+      "dias": [
+        {
+          "dia": 1,
+          "devocional": "Os céus e a terra tomo hoje por testemunhas contra vós, de que te tenho proposto a vida e a morte, a bênção e a maldição; escolhe pois a vida, para que vivas, tu e a tua descendência",
+          "versículo": "Deuteronômio 30:19",
+          "title": "Tudo depende de uma escolha",
+          "conteudo": "Desde o inicio da humanidade, as escolhas fazem a diferença entre o sucesso e o fracasso, entre viver ou morrer. Não é atoa que as escrituras por diversas vezes nos mostram que nossas escolhas são baseadas nos resultados instantâneos (Tiago 4:3), quando na verdade deveríamos entender os riscos que acompanham os resultados das escolhas ruins. O bom é que temos um Deus amoroso e que se importa conosco, e deixou pronto um manual de instruções “a Bíblia” que nos ajudará a fazer as escolhas certas, para colhermos os resultados certos",
+          "avalie": {
+            "primeiro": "Porque o homem tem a tendência de fazer escolhas erradas?",
+            "segundo": "Como Deus nos ajuda a fazer as escolhas certas?"
           },
-          {
-            "dia": 5,
-            "devocional": "",
-            "versículo": "",
-            "title": "",
-            "conteudo": "",
-            "avalie-se": {
-              "1": "",
-              "2": ""
-            },
-            "aprodunde-se": ""
+          "aprodunde": "Tiago 4:3, Jeremias 29:11, Josué 24:15"
+        }
+      ]
+    },
+    {
+      "semana": 5,
+      "title": "Bíblia",
+      "dias": [
+        {
+          "dia": 1,
+          "devocional": "Os céus e a terra tomo hoje por testemunhas contra vós, de que te tenho proposto a vida e a morte, a bênção e a maldição; escolhe pois a vida, para que vivas, tu e a tua descendência",
+          "versículo": "Deuteronômio 30:19",
+          "title": "Tudo depende de uma escolha",
+          "conteudo": "Desde o inicio da humanidade, as escolhas fazem a diferença entre o sucesso e o fracasso, entre viver ou morrer. Não é atoa que as escrituras por diversas vezes nos mostram que nossas escolhas são baseadas nos resultados instantâneos (Tiago 4:3), quando na verdade deveríamos entender os riscos que acompanham os resultados das escolhas ruins. O bom é que temos um Deus amoroso e que se importa conosco, e deixou pronto um manual de instruções “a Bíblia” que nos ajudará a fazer as escolhas certas, para colhermos os resultados certos",
+          "avalie": {
+            "primeiro": "Porque o homem tem a tendência de fazer escolhas erradas?",
+            "segundo": "Como Deus nos ajuda a fazer as escolhas certas?"
           },
-          {
-            "dia": 6,
-            "devocional": "",
-            "versículo": "",
-            "title": "",
-            "conteudo": "",
-            "avalie-se": {
-              "1": "",
-              "2": ""
-            },
-            "aprodunde-se": ""
-          }
-        ]
-      },
-      {
-        "semana": 2,
-        "title": "Criação",
-        "dias": [
-          {
-            "dia": 1,
-            "devocional": "",
-            "versículo": "",
-            "title": "",
-            "conteudo": "",
-            "avalie-se": {
-              "1": "",
-              "2": ""
-            },
-            "aprodunde-se": ""
+          "aprodunde": "Tiago 4:3, Jeremias 29:11, Josué 24:15"
+        }
+      ]
+    },
+    {
+      "semana": 6,
+      "title": "Bíblia",
+      "dias": [
+        {
+          "dia": 1,
+          "devocional": "Os céus e a terra tomo hoje por testemunhas contra vós, de que te tenho proposto a vida e a morte, a bênção e a maldição; escolhe pois a vida, para que vivas, tu e a tua descendência",
+          "versículo": "Deuteronômio 30:19",
+          "title": "Tudo depende de uma escolha",
+          "conteudo": "Desde o inicio da humanidade, as escolhas fazem a diferença entre o sucesso e o fracasso, entre viver ou morrer. Não é atoa que as escrituras por diversas vezes nos mostram que nossas escolhas são baseadas nos resultados instantâneos (Tiago 4:3), quando na verdade deveríamos entender os riscos que acompanham os resultados das escolhas ruins. O bom é que temos um Deus amoroso e que se importa conosco, e deixou pronto um manual de instruções “a Bíblia” que nos ajudará a fazer as escolhas certas, para colhermos os resultados certos",
+          "avalie": {
+            "primeiro": "Porque o homem tem a tendência de fazer escolhas erradas?",
+            "segundo": "Como Deus nos ajuda a fazer as escolhas certas?"
           },
-          {
-            "dia": 2,
-            "devocional": "",
-            "versículo": "",
-            "title": "",
-            "conteudo": "",
-            "avalie-se": {
-              "1": "",
-              "2": ""
-            },
-            "aprodunde-se": ""
-          },
-          {
-            "dia": 3,
-            "devocional": "",
-            "versículo": "",
-            "title": "",
-            "conteudo": "",
-            "avalie-se": {
-              "1": "",
-              "2": ""
-            },
-            "aprodunde-se": ""
-          },
-          {
-            "dia": 4,
-            "devocional": "",
-            "versículo": "",
-            "title": "",
-            "conteudo": "",
-            "avalie-se": {
-              "1": "",
-              "2": ""
-            },
-            "aprodunde-se": ""
-          },
-          {
-            "dia": 5,
-            "devocional": "",
-            "versículo": "",
-            "title": "",
-            "conteudo": "",
-            "avalie-se": {
-              "1": "",
-              "2": ""
-            },
-            "aprodunde-se": ""
-          },
-          {
-            "dia": 6,
-            "devocional": "",
-            "versículo": "",
-            "title": "",
-            "conteudo": "",
-            "avalie-se": {
-              "1": "",
-              "2": ""
-            },
-            "aprodunde-se": ""
-          }
-        ]
-      },
-      {
-        "semana": 3,
-        "title": "A queda",
-        "dias": [
-          {
-            "dia": 1,
-            "devocional": "",
-            "versículo": "",
-            "title": "",
-            "conteudo": "",
-            "avalie-se": {
-              "1": "",
-              "2": ""
-            },
-            "aprodunde-se": ""
-          },
-          {
-            "dia": 2,
-            "devocional": "",
-            "versículo": "",
-            "title": "",
-            "conteudo": "",
-            "avalie-se": {
-              "1": "",
-              "2": ""
-            },
-            "aprodunde-se": ""
-          },
-          {
-            "dia": 3,
-            "devocional": "",
-            "versículo": "",
-            "title": "",
-            "conteudo": "",
-            "avalie-se": {
-              "1": "",
-              "2": ""
-            },
-            "aprodunde-se": ""
-          },
-          {
-            "dia": 4,
-            "devocional": "",
-            "versículo": "",
-            "title": "",
-            "conteudo": "",
-            "avalie-se": {
-              "1": "",
-              "2": ""
-            },
-            "aprodunde-se": ""
-          },
-          {
-            "dia": 5,
-            "devocional": "",
-            "versículo": "",
-            "title": "",
-            "conteudo": "",
-            "avalie-se": {
-              "1": "",
-              "2": ""
-            },
-            "aprodunde-se": ""
-          },
-          {
-            "dia": 6,
-            "devocional": "",
-            "versículo": "",
-            "title": "",
-            "conteudo": "",
-            "avalie-se": {
-              "1": "",
-              "2": ""
-            },
-            "aprodunde-se": ""
-          }
-        ]
-      },
-      {
-        "semana": 4,
-        "title": "O pecado",
-        "dias": [
-          {
-            "dia": 1,
-            "devocional": "",
-            "versículo": "",
-            "title": "",
-            "conteudo": "",
-            "avalie-se": {
-              "1": "",
-              "2": ""
-            },
-            "aprodunde-se": ""
-          },
-          {
-            "dia": 2,
-            "devocional": "",
-            "versículo": "",
-            "title": "",
-            "conteudo": "",
-            "avalie-se": {
-              "1": "",
-              "2": ""
-            },
-            "aprodunde-se": ""
-          },
-          {
-            "dia": 3,
-            "devocional": "",
-            "versículo": "",
-            "title": "",
-            "conteudo": "",
-            "avalie-se": {
-              "1": "",
-              "2": ""
-            },
-            "aprodunde-se": ""
-          },
-          {
-            "dia": 4,
-            "devocional": "",
-            "versículo": "",
-            "title": "",
-            "conteudo": "",
-            "avalie-se": {
-              "1": "",
-              "2": ""
-            },
-            "aprodunde-se": ""
-          },
-          {
-            "dia": 5,
-            "devocional": "",
-            "versículo": "",
-            "title": "",
-            "conteudo": "",
-            "avalie-se": {
-              "1": "",
-              "2": ""
-            },
-            "aprodunde-se": ""
-          },
-          {
-            "dia": 6,
-            "devocional": "",
-            "versículo": "",
-            "title": "",
-            "conteudo": "",
-            "avalie-se": {
-              "1": "",
-              "2": ""
-            },
-            "aprodunde-se": ""
-          }
-        ]
-      },
-      {
-        "semana": 5,
-        "title": "A esperança",
-        "dias": [
-          {
-            "dia": 1,
-            "devocional": "",
-            "versículo": "",
-            "title": "",
-            "conteudo": "",
-            "avalie-se": {
-              "1": "",
-              "2": ""
-            },
-            "aprodunde-se": ""
-          },
-          {
-            "dia": 2,
-            "devocional": "",
-            "versículo": "",
-            "title": "",
-            "conteudo": "",
-            "avalie-se": {
-              "1": "",
-              "2": ""
-            },
-            "aprodunde-se": ""
-          },
-          {
-            "dia": 3,
-            "devocional": "",
-            "versículo": "",
-            "title": "",
-            "conteudo": "",
-            "avalie-se": {
-              "1": "",
-              "2": ""
-            },
-            "aprodunde-se": ""
-          },
-          {
-            "dia": 4,
-            "devocional": "",
-            "versículo": "",
-            "title": "",
-            "conteudo": "",
-            "avalie-se": {
-              "1": "",
-              "2": ""
-            },
-            "aprodunde-se": ""
-          },
-          {
-            "dia": 5,
-            "devocional": "",
-            "versículo": "",
-            "title": "",
-            "conteudo": "",
-            "avalie-se": {
-              "1": "",
-              "2": ""
-            },
-            "aprodunde-se": ""
-          },
-          {
-            "dia": 6,
-            "devocional": "",
-            "versículo": "",
-            "title": "",
-            "conteudo": "",
-            "avalie-se": {
-              "1": "",
-              "2": ""
-            },
-            "aprodunde-se": ""
-          }
-        ]
-      },
-      {
-        "semana": 6,
-        "title": "A redenção",
-        "dias": [
-          {
-            "dia": 1,
-            "devocional": "",
-            "versículo": "",
-            "title": "",
-            "conteudo": "",
-            "avalie-se": {
-              "1": "",
-              "2": ""
-            },
-            "aprodunde-se": ""
-          },
-          {
-            "dia": 2,
-            "devocional": "",
-            "versículo": "",
-            "title": "",
-            "conteudo": "",
-            "avalie-se": {
-              "1": "",
-              "2": ""
-            },
-            "aprodunde-se": ""
-          },
-          {
-            "dia": 3,
-            "devocional": "",
-            "versículo": "",
-            "title": "",
-            "conteudo": "",
-            "avalie-se": {
-              "1": "",
-              "2": ""
-            },
-            "aprodunde-se": ""
-          },
-          {
-            "dia": 4,
-            "devocional": "",
-            "versículo": "",
-            "title": "",
-            "conteudo": "",
-            "avalie-se": {
-              "1": "",
-              "2": ""
-            },
-            "aprodunde-se": ""
-          },
-          {
-            "dia": 5,
-            "devocional": "",
-            "versículo": "",
-            "title": "",
-            "conteudo": "",
-            "avalie-se": {
-              "1": "",
-              "2": ""
-            },
-            "aprodunde-se": ""
-          },
-          {
-            "dia": 6,
-            "devocional": "",
-            "versículo": "",
-            "title": "",
-            "conteudo": "",
-            "avalie-se": {
-              "1": "",
-              "2": ""
-            },
-            "aprodunde-se": ""
-          }
-        ]
-      },
-      {
-        "semana": 7,
-        "title": "A regeneração",
-        "dias": [
-          {
-            "dia": 1,
-            "devocional": "",
-            "versículo": "",
-            "title": "",
-            "conteudo": "",
-            "avalie-se": {
-              "1": "",
-              "2": ""
-            },
-            "aprodunde-se": ""
-          },
-          {
-            "dia": 2,
-            "devocional": "",
-            "versículo": "",
-            "title": "",
-            "conteudo": "",
-            "avalie-se": {
-              "1": "",
-              "2": ""
-            },
-            "aprodunde-se": ""
-          },
-          {
-            "dia": 3,
-            "devocional": "",
-            "versículo": "",
-            "title": "",
-            "conteudo": "",
-            "avalie-se": {
-              "1": "",
-              "2": ""
-            },
-            "aprodunde-se": ""
-          },
-          {
-            "dia": 4,
-            "devocional": "",
-            "versículo": "",
-            "title": "",
-            "conteudo": "",
-            "avalie-se": {
-              "1": "",
-              "2": ""
-            },
-            "aprodunde-se": ""
-          },
-          {
-            "dia": 5,
-            "devocional": "",
-            "versículo": "",
-            "title": "",
-            "conteudo": "",
-            "avalie-se": {
-              "1": "",
-              "2": ""
-            },
-            "aprodunde-se": ""
-          },
-          {
-            "dia": 6,
-            "devocional": "",
-            "versículo": "",
-            "title": "",
-            "conteudo": "",
-            "avalie-se": {
-              "1": "",
-              "2": ""
-            },
-            "aprodunde-se": ""
-          }
-        ]
-      },
-      {
-        "semana": 8,
-        "title": "A santificação",
-        "dias": [
-          {
-            "dia": 1,
-            "devocional": "",
-            "versículo": "",
-            "title": "",
-            "conteudo": "",
-            "avalie-se": {
-              "1": "",
-              "2": ""
-            },
-            "aprodunde-se": ""
-          },
-          {
-            "dia": 2,
-            "devocional": "",
-            "versículo": "",
-            "title": "",
-            "conteudo": "",
-            "avalie-se": {
-              "1": "",
-              "2": ""
-            },
-            "aprodunde-se": ""
-          },
-          {
-            "dia": 3,
-            "devocional": "",
-            "versículo": "",
-            "title": "",
-            "conteudo": "",
-            "avalie-se": {
-              "1": "",
-              "2": ""
-            },
-            "aprodunde-se": ""
-          },
-          {
-            "dia": 4,
-            "devocional": "",
-            "versículo": "",
-            "title": "",
-            "conteudo": "",
-            "avalie-se": {
-              "1": "",
-              "2": ""
-            },
-            "aprodunde-se": ""
-          },
-          {
-            "dia": 5,
-            "devocional": "",
-            "versículo": "",
-            "title": "",
-            "conteudo": "",
-            "avalie-se": {
-              "1": "",
-              "2": ""
-            },
-            "aprodunde-se": ""
-          },
-          {
-            "dia": 6,
-            "devocional": "",
-            "versículo": "",
-            "title": "",
-            "conteudo": "",
-            "avalie-se": {
-              "1": "",
-              "2": ""
-            },
-            "aprodunde-se": ""
-          }
-        ]
-      },
-      {
-        "semana": 9,
-        "title": "A salvação",
-        "dias": [
-          {
-            "dia": 1,
-            "devocional": "",
-            "versículo": "",
-            "title": "",
-            "conteudo": "",
-            "avalie-se": {
-              "1": "",
-              "2": ""
-            },
-            "aprodunde-se": ""
-          },
-          {
-            "dia": 2,
-            "devocional": "",
-            "versículo": "",
-            "title": "",
-            "conteudo": "",
-            "avalie-se": {
-              "1": "",
-              "2": ""
-            },
-            "aprodunde-se": ""
-          },
-          {
-            "dia": 3,
-            "devocional": "",
-            "versículo": "",
-            "title": "",
-            "conteudo": "",
-            "avalie-se": {
-              "1": "",
-              "2": ""
-            },
-            "aprodunde-se": ""
-          },
-          {
-            "dia": 4,
-            "devocional": "",
-            "versículo": "",
-            "title": "",
-            "conteudo": "",
-            "avalie-se": {
-              "1": "",
-              "2": ""
-            },
-            "aprodunde-se": ""
-          },
-          {
-            "dia": 5,
-            "devocional": "",
-            "versículo": "",
-            "title": "",
-            "conteudo": "",
-            "avalie-se": {
-              "1": "",
-              "2": ""
-            },
-            "aprodunde-se": ""
-          },
-          {
-            "dia": 6,
-            "devocional": "",
-            "versículo": "",
-            "title": "",
-            "conteudo": "",
-            "avalie-se": {
-              "1": "",
-              "2": ""
-            },
-            "aprodunde-se": ""
-          }
-        ]
-      },
-      {
-        "semana": 10,
-        "title": "Vida cristã",
-        "dias": [
-          {
-            "dia": 1,
-            "devocional": "",
-            "versículo": "",
-            "title": "",
-            "conteudo": "",
-            "avalie-se": {
-              "1": "",
-              "2": ""
-            },
-            "aprodunde-se": ""
-          },
-          {
-            "dia": 2,
-            "devocional": "",
-            "versículo": "",
-            "title": "",
-            "conteudo": "",
-            "avalie-se": {
-              "1": "",
-              "2": ""
-            },
-            "aprodunde-se": ""
-          },
-          {
-            "dia": 3,
-            "devocional": "",
-            "versículo": "",
-            "title": "",
-            "conteudo": "",
-            "avalie-se": {
-              "1": "",
-              "2": ""
-            },
-            "aprodunde-se": ""
-          },
-          {
-            "dia": 4,
-            "devocional": "",
-            "versículo": "",
-            "title": "",
-            "conteudo": "",
-            "avalie-se": {
-              "1": "",
-              "2": ""
-            },
-            "aprodunde-se": ""
-          },
-          {
-            "dia": 5,
-            "devocional": "",
-            "versículo": "",
-            "title": "",
-            "conteudo": "",
-            "avalie-se": {
-              "1": "",
-              "2": ""
-            },
-            "aprodunde-se": ""
-          },
-          {
-            "dia": 6,
-            "devocional": "",
-            "versículo": "",
-            "title": "",
-            "conteudo": "",
-            "avalie-se": {
-              "1": "",
-              "2": ""
-            },
-            "aprodunde-se": ""
-          }
-        ]
-      },
-      {
-        "semana": 11,
-        "title": "A promessa",
-        "dias": [
-          {
-            "dia": 1,
-            "devocional": "",
-            "versículo": "",
-            "title": "",
-            "conteudo": "",
-            "avalie-se": {
-              "1": "",
-              "2": ""
-            },
-            "aprodunde-se": ""
-          },
-          {
-            "dia": 2,
-            "devocional": "",
-            "versículo": "",
-            "title": "",
-            "conteudo": "",
-            "avalie-se": {
-              "1": "",
-              "2": ""
-            },
-            "aprodunde-se": ""
-          },
-          {
-            "dia": 3,
-            "devocional": "",
-            "versículo": "",
-            "title": "",
-            "conteudo": "",
-            "avalie-se": {
-              "1": "",
-              "2": ""
-            },
-            "aprodunde-se": ""
-          },
-          {
-            "dia": 4,
-            "devocional": "",
-            "versículo": "",
-            "title": "",
-            "conteudo": "",
-            "avalie-se": {
-              "1": "",
-              "2": ""
-            },
-            "aprodunde-se": ""
-          },
-          {
-            "dia": 5,
-            "devocional": "",
-            "versículo": "",
-            "title": "",
-            "conteudo": "",
-            "avalie-se": {
-              "1": "",
-              "2": ""
-            },
-            "aprodunde-se": ""
-          },
-          {
-            "dia": 6,
-            "devocional": "",
-            "versículo": "",
-            "title": "",
-            "conteudo": "",
-            "avalie-se": {
-              "1": "",
-              "2": ""
-            },
-            "aprodunde-se": ""
-          }
-        ]
-      },
-      {
-        "semana": 12,
-        "title": "O cumprimento da promessa",
-        "dias": [
-          {
-            "dia": 1,
-            "devocional": "",
-            "versículo": "",
-            "title": "",
-            "conteudo": "",
-            "avalie-se": {
-              "1": "",
-              "2": ""
-            },
-            "aprodunde-se": ""
-          },
-          {
-            "dia": 2,
-            "devocional": "",
-            "versículo": "",
-            "title": "",
-            "conteudo": "",
-            "avalie-se": {
-              "1": "",
-              "2": ""
-            },
-            "aprodunde-se": ""
-          },
-          {
-            "dia": 3,
-            "devocional": "",
-            "versículo": "",
-            "title": "",
-            "conteudo": "",
-            "avalie-se": {
-              "1": "",
-              "2": ""
-            },
-            "aprodunde-se": ""
-          },
-          {
-            "dia": 4,
-            "devocional": "",
-            "versículo": "",
-            "title": "",
-            "conteudo": "",
-            "avalie-se": {
-              "1": "",
-              "2": ""
-            },
-            "aprodunde-se": ""
-          },
-          {
-            "dia": 5,
-            "devocional": "",
-            "versículo": "",
-            "title": "",
-            "conteudo": "",
-            "avalie-se": {
-              "1": "",
-              "2": ""
-            },
-            "aprodunde-se": ""
-          },
-          {
-            "dia": 6,
-            "devocional": "",
-            "versículo": "",
-            "title": "",
-            "conteudo": "",
-            "avalie-se": {
-              "1": "",
-              "2": ""
-            },
-            "aprodunde-se": ""
-          }
-        ]
-      }
-    ]
-  }
-]
+          "aprodunde": "Tiago 4:3, Jeremias 29:11, Josué 24:15"
+        }
+      ]
+    }
+  ]

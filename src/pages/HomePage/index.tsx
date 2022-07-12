@@ -1,8 +1,10 @@
 import React from "react";
-import { ScrollView } from "react-native";
+import { FlatList, ScrollView } from "react-native";
 import TitleSection from "../../components/atoms/TitleSection";
 import CardHome from "../../components/molecules/CardSemana";
 import * as S from "./styles";
+
+import data from "../../utils/data.json";
 
 export default function HomePage() {
   return (
@@ -10,12 +12,9 @@ export default function HomePage() {
       <TitleSection title="discipulado" />
       <ScrollView>
         <S.Content>
-          <CardHome title="semana 1" subtitle="a bíblia" />
-          <CardHome title="semana 1" subtitle="a bíblia" />
-          <CardHome title="semana 1" subtitle="a bíblia" />
-          <CardHome title="semana 1" subtitle="a bíblia" />
-          <CardHome title="semana 1" subtitle="a bíblia" />
-          <CardHome title="semana 1" subtitle="a bíblia" />
+          {data.map((item, index) => (
+            <CardHome key={index} data={item} />
+          ))}
         </S.Content>
       </ScrollView>
     </S.Container>

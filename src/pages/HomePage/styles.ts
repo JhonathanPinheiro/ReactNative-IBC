@@ -10,7 +10,7 @@ export const Container = styled.View`
 
 export const Content = styled.View`
   ${({ theme }) => css`
-    margin-top: 64px;
+    margin: 64px 0 32px;
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: space-between;
